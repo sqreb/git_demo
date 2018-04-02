@@ -1,6 +1,6 @@
 tesk1 l1
 l2
-l3 xxx
+l3  000
 l4
 l5 rrr
 l6
